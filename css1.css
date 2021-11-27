@@ -1,0 +1,23 @@
+#back
+{
+background-color: antiquewhite;
+height: 100px;
+
+width: 100%;
+}
+.navbar
+{
+    float: right;
+    color: red;
+
+    list-style: none;
+    float: auto;
+    text-align: center;
+    display:inline-flex;
+    padding: 14px 16px;
+    text-decoration: none; background-color: aquamarine;
+    height: 100px;
+    width: 100%;
+
+}
+
